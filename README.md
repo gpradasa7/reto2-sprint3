@@ -1,33 +1,26 @@
-# 👋 Bienvenido al Reto 2
+![image](https://user-images.githubusercontent.com/101824921/174698098-3040a710-6a27-43e1-8e0e-0a045c0dd345.png)
 
-**Para hacer este reto, necesitas muy buena comprensión de React y Redux. Buscamos que logres mostrar tu destresa trabajando con compponentes en función, además de evidenciar los conocimientos esenciales para realizar aplicaciones web dinámicas utilizando React JS**
+<hr>
+Capturas:📷 
+desktop view:
 
-# 📝 Descripción General del Reto 2
+![image](https://user-images.githubusercontent.com/101824921/174698197-413eecc7-a745-4493-9b61-99e5ad4d2cd1.png)
 
-El reto consiste en constuir un producto web teniendo como referencia un diseño previo y debes lograr que se parezca lo más posible al diseño que fue suministrado.
+mobile view:
+![image](https://user-images.githubusercontent.com/101824921/174698527-77cc7561-9e99-4434-80e8-209d39679649.png)
 
-El objetivo es implementar la solución haciendo uso de React y Redux e implementar los requerimientos técnicos.
 
-En la zona de **Recursos** vas a encontrar un enlace externo con los requerimientos de diseño y técnicos que debes cumplir para la entrega de este reto.
 
-# 📚 Recursos
+<br>
+Stack de Tecnologías utilizadas 🛠️:
+<br>
+Para la realización de este proyecto se hizo uso de las siguientes tecnologías:
 
-[Recursos Reto 2](https://drive.google.com/drive/u/1/folders/1XIvMhRgEmQvVbtveZ1zY0qjfDKQg2SPX)
+<li> React (Marco de trabajo) </li>
+<li>Hooks</li>
+<li> React-redux (Marco de trabajo) </li>
+<li>sass (Diseño) </li>
+<hr>
 
-## 🚀 Desplegando tu proyecto
-
-Hay muchas formas de alojar su proyecto de forma gratuita, Algunas opciones son:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-- [Surge](https://surge.sh/)
-
-## ✅ Entrega del Reto 2
-
-Para realizar la entrega de esta actividad debe realizar los siguientes pasos:
-
-1. Crear un `Issue` llamado **Entrega-Frontend-Sprint3-Reto2**
-2. Recuerda trabajar sobre este repositorio, es decir, toda la evidencia de código de la solución a este reto debe estar en tu carpeta **reto-2**
-3. Agregar en el `Issue` la documentación técnica de la manera en que le diste solución a tu reto.
-4. Generar la URL de despliegue y relacionarla en el `Issue` **Entrega-Frontend-Sprint3-Reto2**
+Información de despliegue📦:
+[TASK LIST](https://clever-marigold-2a3308.netlify.app/)
